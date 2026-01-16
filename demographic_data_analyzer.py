@@ -44,11 +44,11 @@ def calculate_demographic_data(print_data = True):
         'race_count': race_count,
         'average_age_men': average_age_men,
         'percentage_bachelors': percentage_bachelors,
-        'high_education_rich': high_education_rich,
-        'Other_education_rich': Other_education_rich,
-        'min_working_hours': min_working_hours,
-        'min_workhours_rich': min_workhours_rich,
-        'High_earn_country': High_earn_country,
-        'High_earn_country_Percentage': High_earn_country_Percentage,
-        'Most_popular_occupation_IND': Most_popular_occupation_IND
+        'higher_education_rich': high_education_rich,
+        'lower_education_rich': Other_education_rich,
+        'min_work_hours': min_working_hours,
+        'rich_percentage': min_workhours_rich,
+        'highest_earning_country': High_earn_country,
+        'highest_earning_country_Percentage': High_earn_country_Percentage,
+        'top_IN_occupation': Most_popular_occupation_IND
     }
